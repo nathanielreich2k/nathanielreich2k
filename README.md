@@ -1,5 +1,5 @@
 # Hello, I'm Nathaniel
-<a href="https://seek.com"><a href="https://img.shields.io/badge/-SEEK-009900?&style=for-the-badge&logo=seek&logoColor=white" /></a>
+<a href="https://www.seek.com.au/profile/me"><a href="https://img.shields.io/badge/-SEEK-009900?&style=for-the-badge&logo=seek&logoColor=white" /></a>
 
 I am a service desk analyst with a profound interest in technology and a dedication to solving complex problems.
 
