@@ -45,9 +45,8 @@ My journey in information technology has led me to develop a passion and underst
 <div>
 <img src="https://img.shields.io/badge/-Tafe_Certificate_3_in_IT-007ACC?&style=for-the-badge" />
 <img src="https://img.shields.io/badge/-Google_Cyber_Security_Professional-FF0000?&style=for-the-badge&logo=Google&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-ITIL_4_Foundation-000080?&style=for-the-badge" />
+
 </div>
 
 ## Projects
