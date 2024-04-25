@@ -1,5 +1,5 @@
 # Hello, I'm Nathaniel
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://img.shields.io/badge/-SEEK-009900?&style=for-the-badge&logo=seek&logoColor=white" /></a>
 
 I am a service desk analyst with a profound interest in technology and a dedication to solving complex problems.
 
