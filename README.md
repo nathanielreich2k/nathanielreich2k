@@ -42,16 +42,16 @@ My journey in information technology has led me to develop a passion and underst
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-Tafe_Certificate_3_in_IT-007ACC?&style=for-the-badge" />
-<img src="https://img.shields.io/badge/-Google_Cyber_Security_Professional-FF0000?&style=for-the-badge&logo=Google&logoColor=white" />
-<img src="https://img.shields.io/badge/-ITIL_4_Foundation-000080?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Tafe_Certificate_3_in_IT-007ACC?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Google_Cyber_Security_Professional-FF0000?&style=for-the-badge&logo=Google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ITIL_4_Foundation-000080?&style=for-the-badge" />
 </div>
 
 ## Clearances
 <div>
-<img src="https://img.shields.io/badge/-Tafe_Certificate_3_in_IT-007ACC?&style=for-the-badge" />
-<img src="https://img.shields.io/badge/-Google_Cyber_Security_Professional-FF0000?&style=for-the-badge&logo=Google&logoColor=white" />
-<img src="https://img.shields.io/badge/-AGSVA_NV1-003366?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-SAPOL_Police_Check-red?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-AGSVA_Baseline-003366?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-AGSVA_NV1-003366?&style=for-the-badge" />
 </div>
 
 
