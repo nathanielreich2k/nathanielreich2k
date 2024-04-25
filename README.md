@@ -31,6 +31,7 @@ My journey in information technology has led me to develop a passion and underst
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Azure-0089D6?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Office_365-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" /> 
+    <img src="https://img.shields.io/badge/-Microsoft_Active_Directory-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 ### SIEM
