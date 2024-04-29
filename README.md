@@ -6,7 +6,7 @@ I am a service desk analyst with a profound interest in technology and a dedicat
 My journey in information technology has led me to develop a passion and understanding for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a proactive organisation as a Level 1 Cybersecurity Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+Skills and their associated homelabs
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -18,7 +18,6 @@ My journey in information technology has led me to develop a passion and underst
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
@@ -54,8 +53,3 @@ My journey in information technology has led me to develop a passion and underst
     <img src="https://img.shields.io/badge/-AGSVA_NV1-003366?&style=for-the-badge" />
 </div>
 
-
-
-## Projects
-- Detection Lab
-- SOC Automation Project
