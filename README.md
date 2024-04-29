@@ -3,7 +3,7 @@
 
 I am a service desk analyst with a profound interest in technology and a dedication to solving complex problems.
 
-My journey in information technology has led me to develop a passion and understanding for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a proactive organisation as a Level 1 Cybersecurity Analyst.
+My journey in information technology has led me to develop a passion and understanding for cybersecurity, and I am now eager to transition into this field. Specifically aiming to join a proactive organisation as a Level 1 Cybersecurity Analyst.
 
 ## Skills
 Skills and their associated homelabs
