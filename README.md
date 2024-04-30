@@ -39,6 +39,14 @@ Skills and their associated homelabs
     <img src="https://img.shields.io/badge/-SAP-005571?&style=for-the-badge&logo=SAP&logoColor=white" />
 </div>
 
+### Languages
+<div>
+    <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux%20Bash-000000?style=for-the-badge&logo=linux&logoColor=white" />
+</div>
+
+
+
 ## Certifications
 <div>
     <img src="https://img.shields.io/badge/-Tafe_Certificate_3_in_IT-007ACC?&style=for-the-badge" />
