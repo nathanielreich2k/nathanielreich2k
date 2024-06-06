@@ -10,7 +10,7 @@ Skills and their associated homelabs
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Packet Tracer - Basic Network Topology          | <a href="https://github.com/nathanielreich2k/Packet-Tracer">Detection Lab</a>|
+| Packet Tracer - ICMP & VLAN Topology         | <a href="https://github.com/nathanielreich2k/Packet-Tracer">Networking Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
