@@ -12,7 +12,7 @@ Skills and their associated homelabs
 |-----------------------------------------------|----------------------------|
 | Packet Tracer - ICMP & VLAN Topology         | <a href="https://github.com/nathanielreich2k/Packet-Tracer">Networking Lab</a>|
 | Malware Analysis using FlareVM & Remnux | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Azure Detection/SIEM Lab                     | <a href="https://google.com">Detection Lab</a>|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
