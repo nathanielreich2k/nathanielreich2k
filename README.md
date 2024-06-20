@@ -13,9 +13,9 @@ Skills and their associated home labs
 | Packet Tracer - ICMP & VLAN Topology         | <a href="https://github.com/nathanielreich2k/Packet-Tracer">Networking Lab</a>|
 | Malware Analysis using FlareVM & Remnux | <a href="https://github.com/nathanielreich2k/MalwareAnalysis">Analysis Lab</a>|
 | Azure Detection/SIEM Lab                     | <a href="https://github.com/nathanielreich2k/AzureSIEM">Detection Lab</a>|
-| DNS Log File Analysis using Splunk SIEM      | SOC Automation Lab|
+| DNS Log File Analysis using Splunk SIEM      | <a href="https://github.com/nathanielreich2k/DNS-Log-File-Analysis-SIM">Detection Lab</a>|
 | ---------------------------                  | SOC Automation Lab|
-| --------------------------- | SOC Automation Lab|
+| ---------------------------                  | SOC Automation Lab|
 
 ## Tools
 
