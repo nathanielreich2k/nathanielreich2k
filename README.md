@@ -15,7 +15,7 @@ Skills and their associated home labs
 | Azure Detection/SIEM Lab                     | <a href="https://github.com/nathanielreich2k/AzureSIEM">Detection Lab</a>|
 | DNS Log File Analysis using Splunk SIEM      | <a href="https://github.com/nathanielreich2k/DNS-Log-File-Analysis-SIM">Detection Lab</a>|
 | Network Intrusion Detection and Response     | <a href="https://github.com/nathanielreich2k/Network-Intrusion-Detection-and-Response">Detection Lab</a>|
-| ---------------------------                  | SOC Automation Lab|
+
 
 ## Tools
 
