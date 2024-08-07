@@ -1,5 +1,6 @@
 # Hello, I'm Nathaniel
 <a href="https://www.seek.com.au/profile/nathaniel-reich-LvlGTPKwqW"><img src="https://img.shields.io/badge/-SEEK-009900?style=for-the-badge&logo=seek&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/nathaniel-reich-333853218"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" /></a>
 
 I am a service desk analyst with a profound interest in technology and a dedication to solving complex problems.
 
