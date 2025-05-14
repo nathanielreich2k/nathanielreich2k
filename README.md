@@ -4,7 +4,7 @@
 
 I am a service desk analyst with a profound interest in technology and a dedication to solving complex problems.
 
-My journey in information technology has led me to develop a passion and understanding for cybersecurity, and I am now eager to transition into this field. Specifically aiming to join a proactive organisation as a Level 1 Cybersecurity Analyst or System Administrator
+My journey in information technology has led me to develop a passion and understanding for cybersecurity and cloud system administration. I am now eager to transition into these fields. Specifically aiming to join a proactive organisation as a Level 1 Cybersecurity Analyst or Cloud System Administrator.
 
 ## Skills
 Skills and their associated home labs
@@ -31,12 +31,15 @@ Skills and their associated home labs
     <img src="https://img.shields.io/badge/-Microsoft_Azure-0089D6?style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Office_365-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" /> 
     <img src="https://img.shields.io/badge/-Microsoft_Active_Directory-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Privileged_Identity_Management-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
 </div>
 
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-SAP-005571?&style=for-the-badge&logo=SAP&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-005571?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    
 </div>
 
 ### Beginner Languages
@@ -51,6 +54,8 @@ Skills and their associated home labs
     <img src="https://img.shields.io/badge/-Tafe_Certificate_3_in_IT-007ACC?&style=for-the-badge" />
     <img src="https://img.shields.io/badge/-Google_Cyber_Security_Professional-FF0000?&style=for-the-badge&logo=Google&logoColor=white" />
     <img src="https://img.shields.io/badge/-ITIL_4_Foundation-000080?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Microsoft_Azure_Fundamentals-000080?&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/-Microsoft_Security_Compliance_and_Identity_Fundamentals-000080?&style=for-the-badge" />
 </div>
 
 ## Clearances
